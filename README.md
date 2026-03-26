@@ -2,7 +2,14 @@
 
 ###
 
-<p align="left">My name is Christian Parisca and I'm a System Engineer. I've participated in innovative projects, both individually and in teams, covering web development (frontend and backend) as well as complex systems integration.</p>
+<p align="left">My name is Christian Parisca and I'm a Systems Engineer. I've participated in innovative projects, both individually and in teams, covering web development (frontend and backend) as well as complex systems integration.</p>
+
+<p>I'm open to:</p>
+
+- Any collaboration work
+- Machine learning and Web projects (development or research)
+- Improving my skills
+- Sharing my portfolio with you.
 
 ###
 
@@ -59,13 +66,20 @@
 <h2 align="left">About me</h2>
 
 ###
+- Study: I'm currently learning Django and PostgreSQL
+- Goals: I want to reach a B2 level in English.
+- Fun fact: I like pineapple cake
 
-<p align="left">📚 I'm currently learning Django and PostgreSQL<br><br>🎯 Goals: I want to reach a B2 level in English.<br><br>🎲 Fun fact: I like pineapple cake</p>
+###
+
+
+<h2 align="left">Github Analytics</h2>
 
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christiancmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="205" alt="languages graph"  />
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christiancmd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=christiancmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="205" alt="languages graph"  />
 </p>
 
 ###
