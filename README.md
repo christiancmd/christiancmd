@@ -81,7 +81,8 @@
 ###
 
 <p align="center">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christiancmd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="195" src="https://streak-stats.demolab.com/?user=christiancmd&theme=dark&background=0d1117" alt="GitHub Streak" />
+   <br></br>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=christiancmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="205" alt="languages graph"  />
 </p>
 
